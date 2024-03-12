@@ -12,8 +12,7 @@ import datetime
 # Modify scope? Delete token.json
 # Scopes are required for accessing Gmail API
 GMAIL_SCOPES = ["https://www.googleapis.com/auth/gmail.readonly",
-                "https://www.googleapis.com/auth/gmail.compose",
-                "https://www.googleapis.com/auth/gmail.send"]
+                "https://www.googleapis.com/auth/gmail.compose"]
 
 # OpenWeather API key and API usage
 # API key
